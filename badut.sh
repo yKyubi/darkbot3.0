@@ -73,7 +73,7 @@ clear
 sleep 2
 echo "          $merah   instalando o darkbot"
 sleep 2
-git clone https://github.com/Darkziinh/api-msg1
+git clone https://github.com/yKyubi/api-msg1/compare/main...yKyubi:patch-1
 cd api-msg1
 clear
 chmod +x badut.sh
